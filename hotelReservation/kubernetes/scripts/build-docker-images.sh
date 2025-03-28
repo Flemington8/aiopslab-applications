@@ -6,7 +6,7 @@ echo "Current working directory before setting the ROOT_FOLDER: $(pwd)"
 
 EXEC="docker buildx"
 
-USER="yinfangchen"
+USER="flemington"
 
 TAG="latest"
 
